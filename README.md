@@ -1,23 +1,22 @@
 # 3D Portfolio
 
 <!-- GitHub badges -->
-
-[![Latest release](image.png)](https://github.com/ladunjexa/reactjs18-3d-portfolio/releases/tag/v0.1.0)
-[![Stars](https://img.shields.io/github/stars/ladunjexa/reactjs18-3d-portfolio?style=social)](https://github.com/ladunjexa/reactjs18-3d-portfolio/stargazers)
-[![Fork](https://img.shields.io/github/forks/ladunjexa/reactjs18-3d-portfolio?style=social)](https://github.com/ladunjexa/reactjs18-3d-portfolio/forks)
-[![GitHub commits](https://img.shields.io/github/commit-activity/t/ladunjexa/reactjs18-3d-portfolio?style=social&logo=github)](https://github.com/ladunjexa/reactjs18-3d-portfolio/commits)
-[![Pull requests](https://img.shields.io/github/issues-pr/ladunjexa/reactjs18-3d-portfolio?style=social&logo=github)](https://github.com/ladunjexa/reactjs18-3d-portfolio/pulls)
+[![Latest release](https://img.shields.io/github/v/release/azharudeenssss-creator/3D-Portfolio-React.js)](https://github.com/azharudeenssss-creator/3D-Portfolio-React.js/releases)
+[![Stars](https://img.shields.io/github/stars/azharudeenssss-creator/3D-Portfolio-React.js?style=social)](https://github.com/azharudeenssss-creator/3D-Portfolio-React.js/stargazers)
+[![Fork](https://img.shields.io/github/forks/azharudeenssss-creator/3D-Portfolio-React.js?style=social)](https://github.com/azharudeenssss-creator/3D-Portfolio-React.js/forks)
+[![GitHub commits](https://img.shields.io/github/commit-activity/t/azharudeenssss-creator/3D-Portfolio-React.js?style=social&logo=github)](https://github.com/azharudeenssss-creator/3D-Portfolio-React.js/commits)
+[![Pull requests](https://img.shields.io/github/issues-pr/azharudeenssss-creator/3D-Portfolio-React.js?style=social&logo=github)](https://github.com/azharudeenssss-creator/3D-Portfolio-React.js/pulls)
 
 ![demo](.github/README_ASSETS/3d-portfolio.png)
 
 [![ladunjexa](https://custom-icon-badges.demolab.com/badge/made%20by%20-ladunjexa-556bf2?logo=github&logoColor=white&labelColor=101827)](https://github.com/luadnjexa)
-[![License](https://img.shields.io/github/license/ladunjexa/reactjs18-3d-portfolio?color=dddddd&labelColor=000000)](https://github.com/ladunjexa/reactjs18-3d-portfolio/blob/main/LICENSE)
-[![Top Language](https://img.shields.io/github/languages/top/ladunjexa/reactjs18-3d-portfolio?logo=github&logoColor=%23007ACC&label=TypeScript)](https://www.typescriptlang.org/)
-[![Contributors](https://img.shields.io/github/contributors/ladunjexa/reactjs18-3d-portfolio?style=flat&color=orange&label=Contributors)](https://github.com/ladunjexa/reactjs18-3d-portfolio/graphs/contributors)
-![Release](https://img.shields.io/github/release/ladunjexa/reactjs18-3d-portfolio.svg)
+[![License](https://img.shields.io/github/license/azharudeenssss-creator/3D-Portfolio-React.js?color=dddddd&labelColor=000000)](https://github.com/azharudeenssss-creator/3D-Portfolio-React.js/blob/main/LICENSE)
+[![Top Language](https://img.shields.io/github/languages/top/azharudeenssss-creator/3D-Portfolio-React.js?logo=github&logoColor=%23007ACC&label=TypeScript)](https://www.typescriptlang.org/)
+[![Contributors](https://img.shields.io/github/contributors/azharudeenssss-creator/3D-Portfolio-React.js?style=flat&color=orange&label=Contributors)](https://github.com/azharudeenssss-creator/3D-Portfolio-React.js/graphs/contributors)
+![Release](https://img.shields.io/github/release/azharudeenssss-creator/3D-Portfolio-React.js.svg)
 ![PRs](https://img.shields.io/badge/PRs-welcome-ff69b4.svg?style=shields)
-![deployment](https://img.shields.io/github/deployments/ladunjexa/reactjs18-3d-portfolio/Production?logo=vercel&label=Website)
-[![Known Vulnerabilities](https://snyk.io/test/github/ladunjexa/reactjs18-3d-portfolio/badge.svg)](https://snyk.io/test/github/ladunjexa/reactjs18-3d-portfolio)
+![deployment](https://img.shields.io/github/deployments/azharudeenssss-creator/3D-Portfolio-React.js/Production?logo=vercel&label=Website)
+[![Known Vulnerabilities](https://snyk.io/test/github/azharudeenssss-creator/3D-Portfolio-React.js/badge.svg)](https://snyk.io/test/github/azharudeenssss-creator/3D-Portfolio-React.js)
 
 ## 🌐 Live Demo
 
@@ -190,7 +189,7 @@ variables in `.env` file.
 Download or clone this repo by using the link below:
 
 ```bash
-git clone https://github.com/ladunjexa/reactjs18-3d-portfolio.git
+git clone https://github.com/azharudeenssss-creator/3D-Portfolio-React.js.git
 ```
 
 **Step 2:**
@@ -267,13 +266,13 @@ The easiest way to deploy this Next.js app is to use the
 
 You can also deploy this Next.js app with [Netlify](https://www.netlify.com/).
 
-[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ladunjexa/reactjs18-3d-portfolio)
+[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/azharudeenssss-creator/3D-Portfolio-React.js)
 
 Check out [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ## 🔧 Contributing
 
-[![contributors](https://contrib.rocks/image?repo=ladunjexa/reactjs18-3d-portfolio)](https://github.com/ladunjexa/reactjs18-3d-portfolio/graphs/contributors)
+[![contributors](https://contrib.rocks/image?repo=azharudeenssss-creator/3D-Portfolio-React.js)](https://github.com/azharudeenssss-creator/3D-Portfolio-React.js/graphs/contributors)
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and
 create. Any contributions you make are **greatly appreciated**.
@@ -290,11 +289,11 @@ To fix a bug or enhance an existing module, follow these steps:
 ### 📩 Bug / Feature Request
 
 If you find a bug (failure of a module to execute its intended function), kindly open an issue
-[here](https://github.com/ladunjexa/reactjs18-3d-portfolio/issues/new) by including the issue with a
+[here](https://github.com/azharudeenssss-creator/3D-Portfolio-React.js/issues/new) by including the issue with a
 title and clear description.
 
 If you'd like to request a new function, feel free to do so by opening an issue
-[here](https://github.com/ladunjexa/reactjs18-3d-portfolio/issues/new). Please include sample
+[here](https://github.com/azharudeenssss-creator/3D-Portfolio-React.js/issues/new). Please include sample
 queries and their corresponding results.
 
 ## 💎 Acknowledgements
@@ -327,4 +326,4 @@ possible:
 
 **Three.js 3D Portfolio** is open source software
 [licensed as MIT](https://opensource.org/license/mit/) and is free to use — See
-[LICENSE](https://github.com/ladunjexa/reactjs18-3d-portfolio/blob/main/LICENSE) for more details.
+[LICENSE](https://github.com/azharudeenssss-creator/3D-Portfolio-React.js/blob/main/LICENSE) for more details.
